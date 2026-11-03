@@ -1,6 +1,6 @@
-// 网果短剧 HMTV 配置
+// Yifei 影视源 Node 在线订阅配置
 module.exports = {
-  "brand": "网果短剧",
+  "brand": "Yifei 影视源",
   "port": 8888,
   "sites": [
     {
