@@ -13,6 +13,15 @@ module.exports = {
       "filterable": 0
     },
     {
+      "key": "yingtan4k",
+      "name": "🎬影探·4K",
+      "type": 3,
+      "api": "/spider/yingtan4k/3",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
       "key": "wangguo_duanju",
       "name": "🍿网果·短剧",
       "type": 3,
