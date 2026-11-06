@@ -10,7 +10,7 @@ module.exports = {
       "api": "/spider/hongguo_danmaku/3",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 1
     },
     {
       "key": "yingtan4k",
@@ -19,7 +19,7 @@ module.exports = {
       "api": "/spider/yingtan4k/3",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 1
     },
     {
       "key": "wangguo_duanju",
@@ -44,6 +44,33 @@ module.exports = {
       "name": "🍄蘑菇·影视",
       "type": 3,
       "api": "/spider/mushroom_drama/3",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "madou_ai",
+      "name": "🎬麻豆·AI",
+      "type": 3,
+      "api": "/spider/madou_ai/3",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "zhibo_video",
+      "name": "🎥主播·视频",
+      "type": 3,
+      "api": "/spider/zhibo_video/3",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "heiliao",
+      "name": "🔞黑料网",
+      "type": 3,
+      "api": "/spider/heiliao/3",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
