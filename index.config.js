@@ -101,6 +101,33 @@ module.exports = {
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
+    },
+    {
+      "key": "duanju51",
+      "name": "🎬51短剧",
+      "type": 3,
+      "api": "/spider/duanju51/3",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "huangdou",
+      "name": "🫘黄豆·短剧",
+      "type": 3,
+      "api": "/spider/huangdou/3",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "huadu",
+      "name": "🌸花都影视",
+      "type": 3,
+      "api": "/spider/huadu/3",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
     }
   ]
 };
