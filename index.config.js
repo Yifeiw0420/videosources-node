@@ -49,6 +49,33 @@ module.exports = {
       "filterable": 0
     },
     {
+      "key": "kulao",
+      "name": "🧰裤佬·全家桶",
+      "type": 3,
+      "api": "/spider/kulao/3",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "naifei_gc",
+      "name": "🎞奈飞工厂",
+      "type": 3,
+      "api": "/spider/naifei_gc/3",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "fengye4k",
+      "name": "🍁枫叶·4K",
+      "type": 3,
+      "api": "/spider/fengye4k/3",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
       "key": "madou_ai",
       "name": "🎬麻豆·AI",
       "type": 3,
@@ -130,37 +157,10 @@ module.exports = {
       "filterable": 0
     },
     {
-      "key": "fengye4k",
-      "name": "🍁枫叶·4K",
-      "type": 3,
-      "api": "/spider/fengye4k/3",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
       "key": "jinguo",
       "name": "🈲禁果·短剧",
       "type": 3,
       "api": "/spider/jinguo/3",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "naifei_gc",
-      "name": "🎞奈飞工厂",
-      "type": 3,
-      "api": "/spider/naifei_gc/3",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "kulao",
-      "name": "🧰裤佬·全家桶",
-      "type": 3,
-      "api": "/spider/kulao/3",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
