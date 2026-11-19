@@ -82,7 +82,7 @@ module.exports = {
       "api": "/spider/madou_ai/3",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 0
     },
     {
       "key": "zhibo_video",
@@ -100,7 +100,7 @@ module.exports = {
       "api": "/spider/heiliao/3",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 0
     },
     {
       "key": "huangguo_drama",
@@ -109,7 +109,7 @@ module.exports = {
       "api": "/spider/huangguo_drama/3",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 0
     },
     {
       "key": "lizhi_drama",
@@ -118,7 +118,7 @@ module.exports = {
       "api": "/spider/lizhi_drama/3",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 0
     },
     {
       "key": "chengguo_drama",
@@ -127,7 +127,7 @@ module.exports = {
       "api": "/spider/chengguo_drama/3",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 0
     },
     {
       "key": "duanju51",
@@ -154,7 +154,7 @@ module.exports = {
       "api": "/spider/huadu/3",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 0
     },
     {
       "key": "jinguo",
